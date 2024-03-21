@@ -1,0 +1,253 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body
+{
+    background-color:#5F9EA0;
+    opacity:0.9;
+}
+.container
+{
+    position:absolute;
+    width:97%;
+    height:97%;
+    background-image:url('İmg/Weather.jpg');
+    background-size:cover;
+    left:2%;
+    top:2%;
+    border-radius:0.5em;
+}
+
+.searchcontainer
+{
+    position:absolute;
+
+    width:80em;
+    height:37em;
+    right:13%;
+    top:1%;
+    border-radius:0.5em;
+
+}
+.Turkishcitycontainer
+{
+    position:absolute;
+    width:109em;
+    height:19em;
+    bottom:0.5%;
+    left:4%;
+    border-radius:0.5em;
+}
+
+.seviye
+{
+    font-size:2em;
+    margin-top:1em;
+}
+.durum
+{
+    font-size:2.5em;
+}
+.search
+{
+    position:absolute;
+    left:29%;
+    width:26em;
+    height:2em;
+    top:28%;
+    border-radius:0.5em;
+    font-size:large;
+    border:none;
+    border-bottom: 1px solid orange;
+    color:#7FFFD4;
+    background-color:transparent;
+}
+.cityname
+{
+color:#7FFFD4;
+position:absolute;
+top:19%;
+left:34.9%;
+font-family:monospace;
+}
+.cityinfo
+{
+    position:absolute;
+    top:5%;
+    left:6%;
+    width:70em;
+    height:35em;
+    background-color:rgba(0,0,0,0.7);
+    text-align:center;
+    font-size:larger;
+    padding-top:18em;
+    font-family:monospace;
+    border-radius:0.5em;
+    color:#7FFFD4;
+
+}
+.durum
+{
+    margin-top:1.5em;
+}
+.sehir1 
+{
+    position:absolute;
+    width:15em;
+    height:18em;
+    background-color:white;
+    left:1%;
+    top:2%;
+    text-align:center;
+    padding-top:8em;
+    border-radius:0.5em;
+    opacity:0.5em;
+    background-image: url('İmg/pexels-gül-işık-6312169.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+   
+}
+.Sehir1b
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+
+}
+.Sehir1s
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+}
+.sehir2
+{
+    position:absolute;
+    width:15em;
+    height:18em;
+    background-color:white;
+    left:22%;
+    top:2%;
+    text-align:center;
+    padding-top:8em;
+    border-radius:0.5em;
+    background-image: url('İmg/pexels-doğan-alpaslan-demir-18660353.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.Sehir2b
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+
+}
+.Sehir2s
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+}
+.sehir3
+{
+    position:absolute;
+    width:15em;
+    height:18em;
+    background-color:white;
+    left:42%;
+    top:2%;
+    text-align:center;
+    padding-top:8em;
+    border-radius:0.5em;
+    background-image: url('İmg/pexels-erik-karits-3732500.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.Sehir3b
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+
+}
+.Sehir3s
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+}
+.sehir4
+{
+    position:absolute;
+    width:15em;
+    height:18em;
+    background-color:white;
+    left:62%;
+    top:2%;
+    text-align:center;
+    padding-top:8em;
+    border-radius:0.5em;
+    background-image: url('İmg/pexels-ezgi-bircan-18631557.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.Sehir4b
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+
+}
+.Sehir4s
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+}
+.sehir5
+{
+    position:absolute;
+    width:15em;
+    height:18em;
+    background-color:white;
+    left:82%;
+    top:2%;
+    text-align:center;
+    padding-top:8em;
+    border-radius:0.5em;
+    background-image: url('İmg/pexels-zülfü-demir📸-12052418.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+
+}
+.Sehir5b
+{
+    color:#7FFFD4;
+    font-size:2em;
+ background-color:black;
+    opacity:0.7;
+
+}
+.Sehir5s
+{
+    color:#7FFFD4;
+    font-size:2em;
+    background-color:black;
+    opacity:0.7;
+}
