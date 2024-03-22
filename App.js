@@ -60,7 +60,7 @@ const IstanbulF = () => {
 
 const Istanbul=(veri) => {
     Sehir1b.textContent=`${veri.name}`;
-    Sehir1s.textContent=`${Math.round(veri.main.temp)}`;
+    Sehir1s.textContent=`${Math.round(veri.main.temp)}°C`;
 }
 
 
@@ -80,7 +80,7 @@ const IzmirF = () => {
 
 const Izmir=(veri) => {
     Sehir2b.textContent=`${veri.name}`;
-    Sehir2s.textContent=`${Math.round(veri.main.temp)}`;
+    Sehir2s.textContent=`${Math.round(veri.main.temp)}°C`;
 }
 
 
@@ -96,7 +96,7 @@ const AntalyaF = () => {
 
 const Antalya=(veri) => {
     Sehir3b.textContent=`${veri.name}`;
-    Sehir3s.textContent=`${Math.round(veri.main.temp)}`;
+    Sehir3s.textContent=`${Math.round(veri.main.temp)}°C`;
 }
 
 
@@ -113,7 +113,7 @@ const DiyarbakırF = () => {
 
 const Diyarbakır=(veri) => {
     Sehir4b.textContent=`${veri.name}`;
-    Sehir4s.textContent=`${Math.round(veri.main.temp)}`;
+    Sehir4s.textContent=`${Math.round(veri.main.temp)}°C`;
 }
 
 const TrabzonF = () => {
@@ -128,7 +128,7 @@ const TrabzonF = () => {
 
 const Trabzon=(veri) => {
     Sehir5b.textContent=`${veri.name}`;
-    Sehir5s.textContent=`${Math.round(veri.main.temp)}`;
+    Sehir5s.textContent=`${Math.round(veri.main.temp)}°C`;
 }
 
 IstanbulF();
