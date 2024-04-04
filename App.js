@@ -1,5 +1,5 @@
-const url="https://api.openweathermap.org/data/2.5/";
-const apikey="a821beb2f52413bba7ff063b0d4077e6";
+const url="";  //kendinize ait openweather dan url alıp ekleyin
+const apikey=""; // kendinize ait openweather dan key alıp ekleyin
 const search=document.querySelector(".search");
 const cityname=document.querySelector(".sehirsimi");
 const seviye=document.querySelector(".seviye");
